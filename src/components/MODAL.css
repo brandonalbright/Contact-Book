@@ -1,0 +1,14 @@
+.phonenumber {
+    width: 80%;
+}
+
+#modal {
+    width: 50vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#modal-items {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,32 @@
+.contact-card {
+    border: 1px solid black;
+    margin: 15px;
+    text-align: center;
+    padding: 10px;
+}
+
+.icons {
+    display: flex;
+    flex-direction: column;
+}
+.details {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.contact-details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#delete {
+    padding-bottom: 15px;
+}
+
+#edit {
+    padding-top: 15px;
+}
+
+

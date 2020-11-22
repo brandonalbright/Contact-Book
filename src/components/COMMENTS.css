@@ -1,0 +1,18 @@
+.comments {
+    padding-top: 15px;
+}
+.single-comment {
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    justify-content: space-between;
+
+}
+
+.comment-form {
+    width: 100%;
+}
+.comment-submit {
+    width: 100%;
+}
